@@ -1,0 +1,15 @@
+table{
+    background-color: bisque;
+    padding: 10px;
+    
+}
+.main{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    color: white;
+
+    .btn{
+        margin-left: 20px;
+    }
+}
